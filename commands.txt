@@ -1,0 +1,1 @@
+dotnet new mvc -au Individual -f netcoreapp2.0
